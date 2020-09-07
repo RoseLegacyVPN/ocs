@@ -156,7 +156,7 @@ function InstNginx(){
 function InstPanel(){
  
  # Pull OCS Source Code
- wget -O /home/panel/html/roselegacy.zip https://github.com/RoseLegacyVPN/ocs/master/roselegacy.zip
+ wget -O /home/panel/html/roselegacy.zip https://github.com/RoseLegacyVPN/ocs/raw/master/roselegacy.zip
  sleep 2
  
  # Change dir to Webroot
